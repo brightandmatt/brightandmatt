@@ -3,17 +3,20 @@
   <title>{{title}} / {{pageTitle}}</title>
   <link rel="stylesheet" href="/src/css/reset.css">
   <link rel="stylesheet" href="/src/css/styles.css">
-  <link href="https://fonts.googleapis.com/css?family=Barlow|Barlow+Condensed|Barlow+Semi+Condensed:400,400i,700&display=swap" rel="stylesheet">
+  {# <link href="https://fonts.googleapis.com/css?family=Barlow|Barlow+Condensed|Barlow+Semi+Condensed:400,400i,700&display=swap" rel="stylesheet"> #}
+   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&family=Raleway:wght@300;700;800;900&display=swap" rel="stylesheet">
 </head>
 
 <body id="home">
   <h1><a class="selected" href="/">Bright & Matt</a>
-    <span><b>Design and research</b></span>
+    <span>Design and research</span>
   </h1>
+
+  --
 
   {{ content | safe }}
 
-  -- --
+  --
 
 </body>
 </html>
