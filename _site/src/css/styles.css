@@ -9,6 +9,8 @@ body, .article {
   max-width: 70%;
   /* margin: 1.48888889em; */
   margin: 2em;
+  background-color: black;
+  color: white;
 }
 h1, .h1 {
 	font-family: 'Raleway', sans-serif;
@@ -17,6 +19,7 @@ h1, .h1 {
   line-height: 1.072em;
   margin-top: 1.072em;
   /* margin-bottom: 1.072em; */
+  color: white;
 }
 span {
 	font-family: 'Raleway', sans-serif;
@@ -117,7 +120,7 @@ a:hover {
 }
 
 a:active, .selected {
-  color: black;
+  color: white;
 }
 
 a:visited {
@@ -125,7 +128,7 @@ a:visited {
 }
 
 a:visited.selected {
-  color: black;
+  color: white;
 }
 
 footer a, small{
