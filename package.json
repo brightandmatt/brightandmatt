@@ -1,0 +1,24 @@
+{
+  "name": "brightandmatt",
+
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightandmatt/brightandmatt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightandmatt/brightandmatt/issues"
+  },
+  "homepage": "https://github.com/brightandmatt/brightandmatt#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
