@@ -3,7 +3,7 @@ html, .root {
   line-height: 67px;
 }
 body, .article {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Varta', sans-serif;
   font-size: 0.75em;
   line-height: 1.48888889em;
   max-width: 70%;
@@ -22,7 +22,7 @@ h1, .h1 {
   color: white;
 }
 span {
-	font-family: 'Raleway', sans-serif;
+	/* font-family: 'Raleway', sans-serif; */
 	font-size: 0.36em;
 	/* font-style: italic; */
 	line-height: 1.48888889em;
