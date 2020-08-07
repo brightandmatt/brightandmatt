@@ -20,7 +20,7 @@ We work in partnership with organisations, delivering:
 
 We deliver value. We work in a modern, lean, agile user-centred way.
 
-Talk to us <a href="mailto:studio@brightandmatt.com">studio@brightandmatt.com</a>.
+Talk to us <a href="mailto:studio@brightandmatt.com">studio@brightandmatt.com</a>
 
 ## Associates
 
