@@ -6,9 +6,9 @@ nav: home
 ---
 
 
-### Bright & Matt is a design and research studio
+### Bright & Matt is a design and research studio.
 
-Its associates have been working individually and collectively in digital design and research for over two decades in senior leadership roles and delivery teams.
+We have been working individually and collectively in digital design and research for over two decades in senior leadership roles and delivery teams.
 
 We’ve delivered a wide range of digital services within the public, private and not for profit sectors.
 
