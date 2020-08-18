@@ -118,7 +118,7 @@ a:hover {
   text-decoration: underline;
 }
 
-a:active, .selected {
+a:active {
   color: red;
 }
 
