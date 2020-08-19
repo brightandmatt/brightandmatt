@@ -118,8 +118,8 @@ a:hover {
   text-decoration: underline;
 }
 
-a:active {
-  color: red;
+a:active, .selected {
+  color: black;
 }
 
 a:visited {
