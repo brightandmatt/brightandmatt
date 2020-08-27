@@ -22,18 +22,18 @@ We deliver value. We work in a modern, lean, agile user-centred way.
 
 ## People
 
-Julianne Bowman</br>
+<!-- Julianne Bowman</br> -->
 Walt Buchan</br>
 Ben Bywater</br>
-Liz Griffin</br>
+<!-- Liz Griffin</br> -->
 Sam Groves</br>
-Veronika Jermolina</br>
-Mia Kos</br>
-Andy Millar</br>
-Martin Oliver</br>
-Raj Panjwani</br>
-Nic Price</br>
-Pete Smith</br>
+<!-- Veronika Jermolina</br> -->
+<!-- Mia Kos</br> -->
+<!-- Andy Millar</br> -->
+<!-- Martin Oliver</br> -->
+<!-- Raj Panjwani</br> -->
+<!-- Nic Price</br> -->
+<!-- Pete Smith</br> -->
 Matthew Solle</br>
 Andrew Travers</br>
 Simon Whatley</br>
