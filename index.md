@@ -20,10 +20,10 @@ We work in partnership with organisations, delivering:
 
 We deliver value. We work in a modern, lean, agile user-centred way.
 
-## Associates
+## People
 
 Julianne Bowman</br>
-<a href="#walt-buchan">Walt Buchan</a></br>
+Walt Buchan</br>
 Ben Bywater</br>
 Liz Griffin</br>
 Sam Groves</br>
