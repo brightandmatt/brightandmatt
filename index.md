@@ -43,11 +43,11 @@ We deliver value. We work in a modern, lean, agile user-centred way.
 
 ### Walt Buchan
 
-Walt Buchan is a service designer and user researcher. Walt has led teams as Director of Research at cxpartners and Principal User Researcher at Nationwide Building Society amongst others. As a service designer he’s worked with L&C Mortgages, University of Auckland and TVNZ. As a user researcher he’s worked with Google and Defra, amongst many others. He’s spoken at international and national UX conferences, is a peer reviewer for Smashing Magazine, and mentors students and colleagues. Most recently Walt’s work has focussed on integrating user centred design practices into enterprises as they adopt scaled Agile operating models.
+Walt Buchan is a service designer and user researcher. Walt has led teams as Director of Research at cxpartners and Principal User Researcher at Nationwide Building Society amongst others. As a service designer, he’s worked with L&C Mortgages, University of Auckland and TVNZ. As a user researcher, he’s worked with Google and Defra, amongst many others. He’s spoken at international and national UX conferences, is a peer reviewer for Smashing Magazine, and mentors students and colleagues. Most recently Walt’s work has focused on integrating user centred design practices into enterprises as they adopt scaled Agile operating models.
 
 ### Ben Bywater
 
-Ben Bywater is a user researcher. Ben has worked on a number of Government services at the Department for Transport and DEFRA over the past four years (Street works, Clean Air Zones, Ivory, Future Farming Grants) and before that for several world leading UX agencies (Flow, CX Partners) and technology brands (Nokia, Microsoft). Ben is a passionate user advocate who ensures that teams keep users at the heart of their thinking and delivery. Ben has spoken at a number of UX conferences and was the technical editor for Smashing UX Design: Foundations for Designing Online User Experiences.  
+Ben Bywater is a user researcher. Ben has worked on a number of government services at the Department for Transport and DEFRA over the past four years (Street works, Clean Air Zones, Ivory, Future Farming Grants) and before that for several world leading UX agencies (Flow, CX Partners) and technology brands (Nokia, Microsoft). Ben is a passionate user advocate who ensures that teams keep users at the heart of their thinking and delivery. Ben has spoken at a number of UX conferences and was the technical editor for Smashing UX Design: Foundations for Designing Online User Experiences.  
 
 ### Sam Groves
 
@@ -59,7 +59,7 @@ Andrew Millar is a designer and researcher. Andrew has worked in senior roles fo
 
 ### Matthew Solle
 
-Matthew Solle is a designer. Since 2013, Matthew has worked across government departments including Ministry of Justice, Department for Environment Food and Rural Affairs and Home Office including being the Head of Design at Ministry of Justice Digital between 2017-2019. He has also partnered with Intel's Open Source Technology Centre, helped introduce user centred design into the heart of trading applications at Société Générale, as well as worked with The Guardian, Google and Royal Mail.
+Matthew Solle is a designer. Since 2013, Matthew has worked across government departments including Ministry of Justice, Department for Environment Food and Rural Affairs and Home Office including being the Head of Design at Ministry of Justice Digital between 2017-2019. He has also partnered with Intel's Open Source Technology Centre, helped introduce user centred design into the heart of trading applications at various banks including Société Générale, as well as worked with The Guardian, Google and Royal Mail.
 
 ### Andrew Travers
 
