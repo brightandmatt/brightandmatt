@@ -20,6 +20,8 @@ We work in partnership with organisations, delivering:
 
 We deliver value. We work in a modern, lean, agile user-centred way.
 
+Email us <a href="mailto:studio@brightandmatt.co">studio@brightandmatt.co</a> 
+
 ## People
 
 <!-- Julianne Bowman</br> -->
