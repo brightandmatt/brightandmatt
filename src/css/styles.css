@@ -153,3 +153,13 @@ width: 100%;
 height: 100%;
 text-align: left;
 }
+.people{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+.person{
+  margin-right: 1em;
+
+}

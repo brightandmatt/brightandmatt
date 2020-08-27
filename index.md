@@ -34,3 +34,13 @@ Matthew Solle<br>
 Andrew Travers<br>
 Simon Whatley<br>
 Gavin Wye
+<div class="people">
+  <div class="person">
+    <img src="/src/img/andrew.png" alt="">
+    <p><strong>Andrew Travers</strong> is a designer and researcher. Andrew has led teams as Head of Digital Design at The Co-op, Head of Interaction Design at Home Office and Interim Head of Design at HM Revenue and Customs amongst others. As a designer he’s worked with The Guardian, Pearson and Method. He is the author of ‘Interviewing for research: a pocket guide to design research’. Most recently Andrew’s work has focused on design operations and building design teams.</p>
+  </div>
+  <div class="person">
+    <img src="/src/img/gavin.png" alt="">
+    <p><strong>Gavin Wye</strong> is a designer and researcher. Gavin has worked as a lead designer at Government Digital Service, Ministry of Justice, and HM Revenue and Customs. Gavin has helped departments within the UK Government build strong multidisciplinary design teams, and designed digital services. Prior to Gavin’s time in government, he led the redesign of virginmoney.com. Gavin delivers impactful working software to users as early as possible, meeting their needs, continuously improving and iterating based on user research.</p>
+  </div>
+</div>
