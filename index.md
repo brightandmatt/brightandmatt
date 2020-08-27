@@ -23,10 +23,10 @@ We deliver value. We work in a modern, lean, agile user-centred way.
 ## People
 
 <!-- Julianne Bowman</br> -->
-Walt Buchan</br>
-Ben Bywater</br>
+<!-- Walt Buchan</br> -->
+<!-- Ben Bywater</br> -->
 <!-- Liz Griffin</br> -->
-Sam Groves</br>
+<!-- Sam Groves</br> -->
 <!-- Veronika Jermolina</br> -->
 <!-- Mia Kos</br> -->
 <!-- Andy Millar</br> -->
@@ -34,10 +34,10 @@ Sam Groves</br>
 <!-- Raj Panjwani</br> -->
 <!-- Nic Price</br> -->
 <!-- Pete Smith</br> -->
-Matthew Solle</br>
-Andrew Travers</br>
-Simon Whatley</br>
-Gavin Wye
+<!-- Matthew Solle</br> -->
+<!-- Andrew Travers</br> -->
+<!-- Simon Whatley</br> -->
+<!-- Gavin Wye -->
 
 ### Walt Buchan is a service designer and user researcher
 
