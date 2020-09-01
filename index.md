@@ -61,7 +61,7 @@ Andrew Millar is a designer and researcher. Andrew has worked in senior roles fo
 
 Martin Oliver is a content designer. He’s worked at the Ministry of Justice as Head of Content Design, growing and developing the content design team from 5 to more than 20 specialists. Before that, he has occupied senior content roles in digital consultancies and a number of London agencies. From developing vision pieces for John Lewis and Barclays to delivering ambitious programmes for HIlton Hotels, Virgin Media and The White Company, he likes nothing better than rolling up his sleeves and getting stuck into highly productive team work.
 
-###Pete Smith
+### Pete Smith
 
 Pete Smith is a designer with product management experience. Pete started in the private sector before moving across to public sector work with a few digital start ups in between. He was creative director at Global Radio, responsible for digital and brand design across their portfolio of brands including Xfm, Classic FM and Capital Radio. He was  design lead for the NHS website and the NHS referral service. Pete was the product manager for the Discovery, Alpha and Beta phases of the Scottish Government’s mygov.scot, before returning to design as a lead interaction designer for HM Revenue and Customs, the Co-op and service designer for Defra. Pete enjoys helping people understand the value of designing for users. He likes working with all levels of a business to shape services that meet user needs and expectations.
 
