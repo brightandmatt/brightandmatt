@@ -41,6 +41,10 @@ We deliver value. We work in a modern, lean, agile user-centred way.
 <!-- Simon Whatley</br> -->
 <!-- Gavin Wye -->
 
+### Julianne Bowman
+
+Julianne Bowman is a user researcher and service designer.
+
 ### Walt Buchan
 
 Walt Buchan is a service designer and user researcher. Walt has led teams as Director of Research at cxpartners and Principal User Researcher at Nationwide Building Society amongst others. As a service designer, he’s worked with L&C Mortgages, University of Auckland and TVNZ. As a user researcher, he’s worked with Google and Defra, amongst many others. He’s spoken at international and national UX conferences, is a peer reviewer for Smashing Magazine, and mentors students and colleagues. Most recently Walt’s work has focused on integrating user centred design practices into enterprises as they adopt scaled Agile operating models.
@@ -49,9 +53,21 @@ Walt Buchan is a service designer and user researcher. Walt has led teams as Dir
 
 Ben Bywater is a user researcher. Ben has worked on a number of government services at the Department for Transport and DEFRA over the past four years (Street works, Clean Air Zones, Ivory, Future Farming Grants) and before that for several world leading UX agencies (Flow, CX Partners) and technology brands (Nokia, Microsoft). Ben is a passionate user advocate who ensures that teams keep users at the heart of their thinking and delivery. Ben has spoken at a number of UX conferences and was the technical editor for Smashing UX Design: Foundations for Designing Online User Experiences.  
 
+### Liz Griffin
+
+Liz Griffin is a content designer.
+
 ### Sam Groves
 
 Sam Groves is a design researcher. Sam has worked as a Lead Design Researcher at Disclosure Scotland, Senior User Researcher at both Ministry of Justice and Scottish Environmental Protection Agency amongst others. She has extensive experience of working with a range of users including vulnerable and hard-to-reach groups. Sam is passionate about user centred design, influencing behaviour change within organisations and through public speaking.
+
+### Veronika Jermolina
+
+Veronika Jermolina is a user researcher.
+
+### Mia Kos
+
+Mia Kos is a service designer.
 
 ### Andrew Millar
 
@@ -60,6 +76,14 @@ Andrew Millar is a designer and researcher. Andrew has worked in senior roles fo
 ### Martin Oliver
 
 Martin Oliver is a content designer. He’s worked at the Ministry of Justice as Head of Content Design, growing and developing the content design team from 5 to more than 20 specialists. Before that, he has occupied senior content roles in digital consultancies and a number of London agencies. From developing vision pieces for John Lewis and Barclays to delivering ambitious programmes for HIlton Hotels, Virgin Media and The White Company, he likes nothing better than rolling up his sleeves and getting stuck into highly productive team work.
+
+### Raj Panjwani
+
+Raj Panjwani is a service designer.
+
+### Nic Price
+
+Nic Price is a designer and researcher.
 
 ### Pete Smith
 
