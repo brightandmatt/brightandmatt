@@ -8,17 +8,14 @@ nav: home
 
 ### Bright & Matt is a design and research studio.
 
-We have been working individually and collectively in digital design and research for over two decades in senior leadership roles and delivery teams.
+We work with organisations to:
 
-We’ve delivered a wide range of digital services within the public, private and not for profit sectors.
+- create high quality digital delivery teams using our trusted network of service designers, interaction designers, content designers, user researchers and product managers
+- tackle strategic design and research challenges: including supporting communities of practice and setting delivery teams up to succeed
 
-We work in partnership with organisations, delivering:
+Collectively, we’ve delivered high profile digital services across the public, private and not for profit sectors, in delivery teams and in senior leadership roles.
 
-- strategic design and research support
-- trusted people and high quality, standards assured work
-- accessible, ethical design and research
-
-We deliver value. We work in a modern, lean, agile user-centred way.
+We create value. We work in a modern, agile, user-centred way.
 
 Email us <a href="mailto:studio@brightandmatt.co">studio@brightandmatt.co</a>
 
