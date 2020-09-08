@@ -13,9 +13,7 @@ We work with organisations to:
 - create high quality digital delivery teams using our trusted network of service designers, interaction designers, content designers, user researchers and product managers
 - tackle strategic design and research challenges: including supporting communities of practice and setting delivery teams up to succeed
 
-Collectively, we've have been working in digital design and research for over two decades in senior leadership roles and delivery teams.
-
-We’ve delivered high profile digital services across the public, private and not for profit sectors.
+Collectively, we’ve delivered high profile digital services across the public, private and not for profit sectors, in delivery teams and in senior leadership roles.
 
 We create value. We work in a modern, agile, user-centred way.
 
