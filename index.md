@@ -20,26 +20,9 @@ We work in partnership with organisations, delivering:
 
 We deliver value. We work in a modern, lean, agile user-centred way.
 
-<p>Email us <a href="mailto:studio@brightandmatt.co">studio@brightandmatt.co</a></p>
+Email us <a href="mailto:studio@brightandmatt.co">studio@brightandmatt.co</a>
 
 ## People
-
-<!-- Julianne Bowman</br> -->
-<!-- Walt Buchan</br> -->
-<!-- Ben Bywater</br> -->
-<!-- Liz Griffin</br> -->
-<!-- Sam Groves</br> -->
-<!-- Veronika Jermolina</br> -->
-<!-- Mia Kos</br> -->
-<!-- Andy Millar</br> -->
-<!-- Martin Oliver</br> -->
-<!-- Raj Panjwani</br> -->
-<!-- Nic Price</br> -->
-<!-- Pete Smith</br> -->
-<!-- Matthew Solle</br> -->
-<!-- Andrew Travers</br> -->
-<!-- Simon Whatley</br> -->
-<!-- Gavin Wye -->
 
 ### Julianne Bowman
 
@@ -67,7 +50,7 @@ Veronika Jermolina is a user researcher.
 
 ### Mia Kos
 
-Mia Kos is a service designer.
+Mia Kos is a service designer and user researcher. She has worked with many multi-disciplinary teams, helping them develop products and services that are easy to understand, access and use. She has experience navigating complex and highly regulated organisations and has worked with a variety of senior stakeholders. Mia has completed many research and design projects. She interviewed cancer patients and helped to design services that make living with cancer easier and she spoke to people serving a prison sentence to design services that help them maintain relationships with family and friends. Most recently Mia’s work has been focused on helping the Office of National Statistics to adopt a user-centered design approach to product and service design. She believes every good design project starts with a conversation.
 
 ### Andrew Millar
 
