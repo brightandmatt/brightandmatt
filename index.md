@@ -43,7 +43,7 @@ Sam Groves is a design researcher. Sam has worked as a Lead Design Researcher at
 
 ### Veronika Jermolina
 
-Veronika Jermolina is a user researcher.
+Vero is a user researcher and a UX consultant with a passion for inclusive design and accessibility. Vero led and executed research programmes for clients like easyJet, BBC, Facebook, Marie Curie, VISA and Vodafone. In the public sector, Vero has worked at the Ministry of Justice and the Department for Education. Vero has led teams of design researchers and helped organisations design careers around company values.
 
 ### Mia Kos
 
