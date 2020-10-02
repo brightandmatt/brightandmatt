@@ -59,7 +59,7 @@ Martin Oliver is a content designer. He’s worked at the Ministry of Justice as
 
 ### Raj Panjwani
 
-Raj Panjwani is a service designer.
+Raj Panjwani is a designer and researcher. For the past four years Raj has worked at the heart of user-centred policy design within government, at the MoJ and DfE. Before that he was design director at Sense Worldwide where he helped clients like Nike, Sonos, Samsung and S.C. Johnson approach the design of their brands, products and services in a more user-centred way.
 
 ### Nic Price
 
