@@ -19,6 +19,12 @@ We create value. We work in a modern, agile, user-centred way.
 
 Email us <a href="mailto:studio@brightandmatt.co">studio@brightandmatt.co</a>
 
+## Partners
+
+### Zebra People
+
+Zebra People is a specialist digital consultancy that supplies and manages individuals and agile teams across both the public and commercial sector. Over the last five years, Zebra People have contributed to the successful delivery of more than 70 services across Government.
+
 ## People
 
 ### Julianne Bowman
@@ -48,6 +54,10 @@ Vero is a user researcher and a UX consultant with a passion for inclusive desig
 ### Mia Kos
 
 Mia Kos is a service designer and user researcher. She has worked with many multi-disciplinary teams, helping them develop products and services that are easy to understand, access and use. She has experience navigating complex and highly regulated organisations and has worked with a variety of senior stakeholders. Mia has completed many research and design projects. She interviewed cancer patients and helped to design services that make living with cancer easier and she spoke to people serving a prison sentence to design services that help them maintain relationships with family and friends. Most recently Mia’s work has been focused on helping the Office of National Statistics to adopt a user-centered design approach to product and service design. She believes every good design project starts with a conversation.
+
+### Jim Kosem
+
+Jim Kosem is a product and service designer and consultant who has worked in UK government digital transformation, top Fortune 500s such as Intel and Samsung, and academia. He’s focused on making data usable and liveable through design, research and strategy.
 
 ### Andrew Millar
 
