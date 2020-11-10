@@ -6,7 +6,7 @@ nav: home
 ---
 
 
-### Bright & Matt is a design and research studio.
+## Bright & Matt is a design and research studio.
 
 We work with organisations to:
 
