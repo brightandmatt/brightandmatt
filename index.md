@@ -18,6 +18,13 @@ We create value. We work in a modern, agile, user-centred way.
 
 Email us <a href="mailto:studio@brightandmatt.co">studio@brightandmatt.co</a>
 
+<!-- ## Partners {#partners} -->
+<h2 id="partners">Partners</h2>
+
+### Zebra People
+
+Zebra People is a specialist digital consultancy that supplies and manages individuals and agile teams across both the public and commercial sector. Over the last five years, Zebra People have contributed to the successful delivery of more than 70 services across Government.
+
 <!-- ## People {#people} -->
 <h2 id="people">People</h2>
 
@@ -122,10 +129,3 @@ Simon Whatley is a service designer and creative technologist. Simon has worked 
 Gavin Wye is a designer and researcher. Gavin has worked as a lead designer at Government Digital Service, Ministry of Justice, and HM Revenue and Customs. Gavin has helped departments within the UK Government build strong multidisciplinary design teams, and designed digital services. Prior to his time in government, he led the redesign of virginmoney.com. Gavin delivers impactful working software to users as early as possible, meeting their needs, continuously improving and iterating based on user research.
 
 [Linked In](https://www.linkedin.com/in/gavinwye/)
-
-<!-- ## Partners {#partners} -->
-<h2 id="partners">Partners</h2>
-
-### Zebra People
-
-Zebra People is a specialist digital consultancy that supplies and manages individuals and agile teams across both the public and commercial sector. Over the last five years, Zebra People have contributed to the successful delivery of more than 70 services across Government.
