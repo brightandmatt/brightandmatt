@@ -73,7 +73,7 @@ Raj Panjwani is a designer and researcher. For the past four years Raj has worke
 
 ### Nic Price
 
-Nic Price is a designer and researcher.
+Nic Price is a designer and researcher. After working in agencies he joined BBC Training & Development in 1999, and worked in various roles leading to four years as executive producer, overseeing teams working on user-centred products and services. Nic then led user experience design projects for clients including ITV, Camelot, Carphone Warehouse, Scope and NSPCC. More recently, he has led service and interaction design work across multidisciplinary teams in the Office for National Statistics and Department for Environment Food and Rural Affairs. In his role as a trainer, coach and mentor, Nic contributes to the user-centred design community giving talks and running workshops at conferences.
 
 ### Pete Smith
 
